@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<!-- ==========[Mashed_Ashlands_Plant_AshenFern_Potted]==========-->
+	<ThingDef ParentName="Mashed_Ashlands_Plant_AshenFernBase">
+		<defName>Mashed_Ashlands_Plant_AshenFern_Potted</defName>
+		<label>ashen fern (potted)</label>
+		<altitudeLayer>Item</altitudeLayer>
+		<selectable>true</selectable>
+		<plant>
+			<sowTags Inherit="False">
+				<li>Decorative</li>
+			</sowTags>
+			<sowResearchPrerequisites>
+				<li>Mashed_Ashlands_AshSowing_Beginner</li>
+			</sowResearchPrerequisites>
+		</plant>
+	</ThingDef>
+	<!-- ==========[Mashed_Ashlands_Plant_AshlandFern_Potted]==========-->
+	<ThingDef ParentName="Mashed_Ashlands_Plant_AshlandFernBase">
+		<defName>Mashed_Ashlands_Plant_AshlandFern_Potted</defName>
+		<label>ashland fern (potted)</label>
+		<altitudeLayer>Item</altitudeLayer>
+		<selectable>true</selectable>
+		<plant>
+			<sowTags Inherit="False">
+				<li>Decorative</li>
+			</sowTags>
+			<sowResearchPrerequisites>
+				<li>Mashed_Ashlands_AshSowing_Intermediate</li>
+			</sowResearchPrerequisites>
+		</plant>
+	</ThingDef>
+	<!-- ==========[Mashed_Ashlands_Plant_SomnaliusFern_Potted]==========-->
+	<ThingDef ParentName="Mashed_Ashlands_Plant_SomnaliusFernBase">
+		<defName>Mashed_Ashlands_Plant_SomnaliusFern_Potted</defName>
+		<label>ashland somnalius fern (potted)</label>
+		<altitudeLayer>Item</altitudeLayer>
+		<selectable>true</selectable>
+		<plant>
+			<sowTags Inherit="False">
+				<li>Decorative</li>
+			</sowTags>
+			<sowResearchPrerequisites>
+				<li>Mashed_Ashlands_AshSowing_Beginner</li>
+			</sowResearchPrerequisites>
+		</plant>
+	</ThingDef>
+	<!-- ==========[Mashed_Ashlands_Plant_FireFern_Potted]==========-->
+	<ThingDef ParentName="Mashed_Ashlands_Plant_FireFernBase">
+		<defName>Mashed_Ashlands_Plant_FireFern_Potted</defName>
+		<label>fire fern (potted)</label>
+		<altitudeLayer>Item</altitudeLayer>
+		<selectable>true</selectable>
+		<plant>
+			<sowTags Inherit="False">
+				<li>Decorative</li>
+			</sowTags>
+			<sowResearchPrerequisites>
+				<li>Mashed_Ashlands_AshSowing_Intermediate</li>
+			</sowResearchPrerequisites>
+		</plant>
+	</ThingDef>
+</Defs>

@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<!-- ==========[Mashed_Ashlands_Plant_BlackAntherflower_Potted]==========-->
+	<ThingDef ParentName="Mashed_Ashlands_Plant_BlackAntherflowerBase">
+		<defName>Mashed_Ashlands_Plant_BlackAntherflower_Potted</defName>
+		<label>black anther (potted)</label>
+		<altitudeLayer>Item</altitudeLayer>
+		<selectable>true</selectable>
+		<plant>
+			<sowTags Inherit="False">
+				<li>Decorative</li>
+			</sowTags>
+			<maxMeshCount>1</maxMeshCount>
+			<visualSizeRange>0.6~1</visualSizeRange>
+		</plant>
+	</ThingDef>
+	<!-- ==========[Mashed_Ashlands_Plant_GoldenSedgeflower_Potted]==========-->
+	<ThingDef ParentName="Mashed_Ashlands_Plant_GoldenSedgeflowerBase">
+		<defName>Mashed_Ashlands_Plant_GoldenSedgeflower_Potted</defName>
+		<label>golden sedge (potted)</label>
+		<altitudeLayer>Item</altitudeLayer>
+		<selectable>true</selectable>
+		<plant>
+			<sowTags Inherit="False">
+				<li>Decorative</li>
+			</sowTags>
+			<maxMeshCount>1</maxMeshCount>
+			<visualSizeRange>0.6~1</visualSizeRange>
+		</plant>
+	</ThingDef>
+	<!-- ==========[Mashed_Ashlands_Plant_HornLilyflower_Potted]==========-->
+	<ThingDef ParentName="Mashed_Ashlands_Plant_HornLilyflowerBase">
+		<defName>Mashed_Ashlands_Plant_HornLilyflower_Potted</defName>
+		<label>horn lily (potted)</label>
+		<altitudeLayer>Item</altitudeLayer>
+		<selectable>true</selectable>
+		<plant>
+			<sowTags Inherit="False">
+				<li>Decorative</li>
+			</sowTags>
+			<maxMeshCount>1</maxMeshCount>
+			<visualSizeRange>0.6~1</visualSizeRange>
+		</plant>
+	</ThingDef>
+	<!-- ==========[Mashed_Ashlands_Plant_Nirthflyflower_Pottedd]==========-->
+	<ThingDef ParentName="Mashed_Ashlands_Plant_NirthflyflowerBase">
+		<defName>Mashed_Ashlands_Plant_Nirthflyflower_Pottedd</defName>
+		<label>nirthfly (potted)</label>
+		<altitudeLayer>Item</altitudeLayer>
+		<selectable>true</selectable>
+		<plant>
+			<sowTags Inherit="False">
+				<li>Decorative</li>
+			</sowTags>
+			<maxMeshCount>1</maxMeshCount>
+			<visualSizeRange>0.6~1</visualSizeRange>
+		</plant>
+	</ThingDef>
+	<!-- ==========[Mashed_Ashlands_Plant_NobleSedgeflower_Potted]==========-->
+	<ThingDef ParentName="Mashed_Ashlands_Plant_NobleSedgeflowerBase">
+		<defName>Mashed_Ashlands_Plant_NobleSedgeflower_Potted</defName>
+		<label>noble sedge (potted)</label>
+		<altitudeLayer>Item</altitudeLayer>
+		<selectable>true</selectable>
+		<plant>
+			<sowTags Inherit="False">
+				<li>Decorative</li>
+			</sowTags>
+			<maxMeshCount>1</maxMeshCount>
+			<visualSizeRange>0.6~1</visualSizeRange>
+		</plant>
+	</ThingDef>
+	<!-- ==========[Mashed_Ashlands_Plant_Stoneflower_Potted]==========-->
+	<ThingDef ParentName="Mashed_Ashlands_Plant_StoneflowerBase">
+		<defName>Mashed_Ashlands_Plant_Stoneflower_Potted</defName>
+		<label>stoneflower (potted)</label>
+		<altitudeLayer>Item</altitudeLayer>
+		<selectable>true</selectable>
+		<plant>
+			<sowTags Inherit="False">
+				<li>Decorative</li>
+			</sowTags>
+			<maxMeshCount>1</maxMeshCount>
+			<visualSizeRange>0.6~1</visualSizeRange>
+		</plant>
+	</ThingDef>
+	<!-- ==========[Mashed_Ashlands_Plant_WillowFlower_Potted]==========-->
+	<ThingDef ParentName="Mashed_Ashlands_Plant_WillowFlowerBase">
+		<defName>Mashed_Ashlands_Plant_WillowFlower_Potted</defName>
+		<label>willow flower (potted)</label>
+		<altitudeLayer>Item</altitudeLayer>
+		<selectable>true</selectable>
+		<plant>
+			<sowTags Inherit="False">
+				<li>Decorative</li>
+			</sowTags>
+			<maxMeshCount>1</maxMeshCount>
+			<visualSizeRange>0.6~1</visualSizeRange>
+		</plant>
+	</ThingDef>
+</Defs>

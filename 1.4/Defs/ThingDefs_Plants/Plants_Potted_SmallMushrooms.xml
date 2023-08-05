@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<!-- ==========[Mashed_Ashlands_Plant_BlueEntoloma_Potted]==========-->
+	<ThingDef ParentName="Mashed_Ashlands_Plant_BlueEntolomaBase">
+		<defName>Mashed_Ashlands_Plant_BlueEntoloma_Potted</defName>
+		<label>blue entoloma (potted)</label>
+		<altitudeLayer>Item</altitudeLayer>
+		<selectable>true</selectable>
+		<plant>
+			<sowTags Inherit="False">
+				<li>Decorative</li>
+			</sowTags>
+			<maxMeshCount>1</maxMeshCount>
+			<visualSizeRange>0.6~1</visualSizeRange>
+		</plant>
+	</ThingDef>
+	<!-- ==========[Mashed_Ashlands_Plant_FoyadaFungus_Potted]==========-->
+	<ThingDef ParentName="Mashed_Ashlands_Plant_FoyadaFungusBase">
+		<defName>Mashed_Ashlands_Plant_FoyadaFungus_Potted</defName>
+		<label>foyada fungus (potted)</label>
+		<altitudeLayer>Item</altitudeLayer>
+		<selectable>true</selectable>
+		<plant>
+			<sowTags Inherit="False">
+				<li>Decorative</li>
+			</sowTags>
+			<maxMeshCount>1</maxMeshCount>
+			<visualSizeRange>0.6~1</visualSizeRange>
+		</plant>
+	</ThingDef>
+	<!-- ==========[Mashed_Ashlands_Plant_LuminousRussula_Potted]==========-->
+	<ThingDef ParentName="Mashed_Ashlands_Plant_LuminousRussulaBase">
+		<defName>Mashed_Ashlands_Plant_LuminousRussula_Potted</defName>
+		<label>luminous russula (potted)</label>
+		<altitudeLayer>Item</altitudeLayer>
+		<selectable>true</selectable>
+		<plant>
+			<sowTags Inherit="False">
+				<li>Decorative</li>
+			</sowTags>
+			<maxMeshCount>1</maxMeshCount>
+			<visualSizeRange>0.6~1</visualSizeRange>
+		</plant>
+	</ThingDef>
+	<!-- ==========[Mashed_Ashlands_Plant_SulphurFungus_Potted]==========-->
+	<ThingDef ParentName="Mashed_Ashlands_Plant_SulphurFungusBase">
+		<defName>Mashed_Ashlands_Plant_SulphurFungus_Potted</defName>
+		<label>sulphur fungus (potted)</label>
+		<altitudeLayer>Item</altitudeLayer>
+		<selectable>true</selectable>
+		<plant>
+			<sowTags Inherit="False">
+				<li>Decorative</li>
+			</sowTags>
+			<maxMeshCount>1</maxMeshCount>
+			<visualSizeRange>0.6~1</visualSizeRange>
+		</plant>
+	</ThingDef>
+	<!-- ==========[Mashed_Ashlands_Plant_VioletCoprinus_Potted]==========-->
+	<ThingDef ParentName="Mashed_Ashlands_Plant_VioletCoprinusBase">
+		<defName>Mashed_Ashlands_Plant_VioletCoprinus_Potted</defName>
+		<label>violet coprinus (potted)</label>
+		<altitudeLayer>Item</altitudeLayer>
+		<selectable>true</selectable>
+		<plant>
+			<sowTags Inherit="False">
+				<li>Decorative</li>
+			</sowTags>
+			<maxMeshCount>1</maxMeshCount>
+			<visualSizeRange>0.6~1</visualSizeRange>
+		</plant>
+	</ThingDef>
+</Defs>
