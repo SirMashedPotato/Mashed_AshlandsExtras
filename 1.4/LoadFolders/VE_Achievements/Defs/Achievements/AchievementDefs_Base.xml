@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<!-- ==========[Mashed_AchievementAshlandsExtras_Base]========== -->
+	<AchievementsExpanded.AchievementDef Name="Mashed_AchievementAshlandsExtras_Base" Abstract="True">
+		<bgtexPath>Achievements/Mashed_AchievementBackground_AshlandsExtras</bgtexPath>
+		<tab>Mashed_AchievementsTab</tab>
+	</AchievementsExpanded.AchievementDef>
+</Defs>

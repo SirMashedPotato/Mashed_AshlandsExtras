@@ -32,6 +32,7 @@
 	<ThingDef ParentName="Mashed_Ashlands_Plant_LuminousRussulaBase">
 		<defName>Mashed_Ashlands_Plant_LuminousRussula_Potted</defName>
 		<label>luminous russula (potted)</label>
+		<modExtensions Inherit="False"/>
 		<altitudeLayer>Item</altitudeLayer>
 		<selectable>true</selectable>
 		<plant>
@@ -60,6 +61,7 @@
 	<ThingDef ParentName="Mashed_Ashlands_Plant_VioletCoprinusBase">
 		<defName>Mashed_Ashlands_Plant_VioletCoprinus_Potted</defName>
 		<label>violet coprinus (potted)</label>
+		<modExtensions Inherit="False"/>
 		<altitudeLayer>Item</altitudeLayer>
 		<selectable>true</selectable>
 		<plant>
